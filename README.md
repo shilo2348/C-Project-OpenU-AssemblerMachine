@@ -15,14 +15,23 @@ assembly code/file
 Output
 
 assembly code after deployment marco file
+
 base 4 code file is encrypted
+
 external label file
+
 entry label file
+
 data label file
 
 Methods
+
 C
+
 Pointers
+
 Dynamic Memory Allocation
+
 Reading and Creating File
+
 MakeFile
