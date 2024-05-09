@@ -4,7 +4,7 @@
 Assembler machine
 Semester 2024a - Final Project.
 
-Description
+**Description**
 
 Assembler machine, covert assembly code/file to 16 base code.
 
