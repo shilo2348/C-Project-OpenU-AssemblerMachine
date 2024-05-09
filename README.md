@@ -1,5 +1,5 @@
 
-C-Project-OpenU
+### **C-Project-OpenU**
 
 Assembler machine
 Semester 2024a - Final Project.
