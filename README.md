@@ -8,11 +8,11 @@ Semester 2024a - Final Project.
 
 Assembler machine, covert assembly code/file to 16 base code.
 
-Input
+**Input**
 
 assembly code/file
 
-Output
+**Output**
 
 assembly code after deployment marco file
 
@@ -24,7 +24,7 @@ entry label file
 
 data label file
 
-Methods
+**Methods**
 
 C
 
