@@ -6,7 +6,7 @@ Semester 2024a - Final Project.
 
 **Description**
 
-Assembler machine, covert assembly code/file to 16 base code.
+Assembler machine, covert assembly code/file to 4 base code.
 
 **Input**
 
